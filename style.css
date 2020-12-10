@@ -23,3 +23,24 @@ p{
 .half-width img{
 width:100%;
 }
+.link-button{
+    text-decoration: none;
+    background-color: yellow;
+    border-radius: 5px;
+    padding:10px 20px;
+    font-size:20px;
+    color:red;
+}
+.top-banner{
+    background-image: url(images/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+}
+.Dream-area{
+    background-image:url(images/developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
