@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
-.name-highlight{
+.orange-highlight{
     color:yellow;
 }
 h1{
@@ -43,4 +43,16 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.experience-area{
+    float: left;
+    background-image: url(images/developer-portfolio/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.single-experience{
+     box-shadow: 10px 10px 40px  gray;
+     border-radius: 5px;
+     height:80%;
+     float:50px;
 }
